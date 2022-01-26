@@ -1,4 +1,4 @@
-name: Format check with Black
+name: SSE CI/CD
 
 on: [push]
 
